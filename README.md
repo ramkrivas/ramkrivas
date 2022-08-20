@@ -2,7 +2,7 @@
 
 💻 A Software Engineer from India
 
-🏆 Currently working for Siemens Healthineers in Bangalore ⛵ 🚲 as Software Architect / Lead Programmer 🖥️
+🏆 Currently working for Siemens Healthineers in Bangalore ⛵ 🚲 as Software Architect / Senior Programmer 🖥️
 
 ❤️ I love building web apps 🌐 with JavaScript
 
