@@ -4,7 +4,7 @@
 
 🏆 Currently working for Siemens Healthineers in Bangalore ⛵ 🚲 as Software Architect / Senior Programmer 🖥️
 
-❤️ I love building web apps 🌐 with JavaScript
+❤️ I love building web apps 🌐 with JavaScript and building around topics of DevSecOps
 
 👉 You can visit my [portfolio](https://zerogbram.com/) to know more about me 
 
@@ -18,6 +18,7 @@
 - docker
 - Kubernetes
 - .NET core
+- Azure Cloud / GCP
 
 <!--
 **ramkrivas/ramkrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
