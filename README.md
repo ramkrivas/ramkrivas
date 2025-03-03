@@ -1,6 +1,6 @@
  Hi, I’m Ramkumar Krishnan
 
-👉 You can visit my [portfolio](https://zerogbram.com/) to know more about me 
+👉 You can visit my medium profile https://medium.com/@ramkrivas to know more about me 
 
 👇 Here is a list of tech stacks I work with
 
